@@ -27,3 +27,5 @@ This repository documents my SQL learning and practice while developing skills f
 
 - SQL
 - MySQL
+
+SQL queries and practice exercises covering database fundamentals, filtering, aggregation, grouping, joins, subqueries, and data analysis.
